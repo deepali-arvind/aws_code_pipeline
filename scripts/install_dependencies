@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Y | sudo apt-get install apache2
+echo y | sudo apt-get install apache2
